@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "501162357732",
+    "project_id": "test-f2a12",
+    "storage_bucket": "test-f2a12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501162357732:android:4b181e2dcb0167fbbe0df1",
+        "android_client_info": {
+          "package_name": "com.zainon.socket_push_notifictions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501162357732-64j4pha77d1aajjt9390rlcrr5s21sft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrndvJq0UpPinuPcBskG6u2-zvOJh3SF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501162357732-64j4pha77d1aajjt9390rlcrr5s21sft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "501162357732-esd7jen1a6l3l9hsbp4g2bhmap2sfjdk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zainon.socketPushNotifictions"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
